@@ -1,7 +1,7 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.github.feifeizhao25-ship-it/tj-mcp",
-  "description": "Computation-first astrology tools: ephemeris-grade natal charts, current transits, and zodiac sign profiles (kerykeion 6.x). Live remote endpoint, no API key.",
+  "description": "Ephemeris-grade natal charts, current transits, zodiac sign profiles. No API key.",
   "title": "TianJi Astrology",
   "version": "1.0.0",
   "websiteUrl": "https://tianji-astrology.com",
