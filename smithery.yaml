@@ -1,0 +1,11 @@
+# Smithery configuration: https://smithery.ai/docs/config
+version: 1
+startCommand:
+  type: http
+  url: https://mcp.tianji-astrology.com/mcp
+  configSchema:
+    type: object
+    properties: {}
+  exampleConfig: {}
+build:
+  dockerfile: Dockerfile
