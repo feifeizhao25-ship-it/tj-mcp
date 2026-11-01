@@ -1,0 +1,16 @@
+{
+  "$schema": "https://glama.ai/mcp/schemas/server.json",
+  "name": "tj-mcp",
+  "description": "Computation-first astrology tools: ephemeris-grade natal charts, current transits, and sign profiles. Live remote endpoint at https://mcp.tianji-astrology.com/mcp",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/feifeizhao25-ship-it/tj-mcp"
+  },
+  "homepage": "https://tianji-astrology.com",
+  "maintainers": [
+    {
+      "name": "TianJi Astrology",
+      "url": "https://tianji-astrology.com"
+    }
+  ]
+}
